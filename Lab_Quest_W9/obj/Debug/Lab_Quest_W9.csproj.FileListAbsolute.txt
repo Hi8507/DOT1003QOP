@@ -1,0 +1,7 @@
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Lab_Quest_W9\bin\Debug\Lab_Quest_W9.exe.config
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Lab_Quest_W9\bin\Debug\Lab_Quest_W9.exe
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Lab_Quest_W9\bin\Debug\Lab_Quest_W9.pdb
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Lab_Quest_W9\obj\Debug\Lab_Quest_W9.csproj.AssemblyReference.cache
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Lab_Quest_W9\obj\Debug\Lab_Quest_W9.csproj.CoreCompileInputs.cache
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Lab_Quest_W9\obj\Debug\Lab_Quest_W9.exe
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Lab_Quest_W9\obj\Debug\Lab_Quest_W9.pdb
