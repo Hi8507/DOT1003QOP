@@ -1,0 +1,8 @@
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Tale_of_Lover\bin\Debug\Tale_of_Lover.exe.config
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Tale_of_Lover\bin\Debug\Tale_of_Lover.exe
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Tale_of_Lover\bin\Debug\Tale_of_Lover.pdb
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Tale_of_Lover\obj\Debug\Tale_of_Lover.csproj.AssemblyReference.cache
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Tale_of_Lover\obj\Debug\Tale_of_Lover.csproj.CoreCompileInputs.cache
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Tale_of_Lover\obj\Debug\Tale_of_Lover.exe
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Tale_of_Lover\obj\Debug\Tale_of_Lover.pdb
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\Tale_of_Lover\obj\Debug\Tale_of_Lover.exe.config
