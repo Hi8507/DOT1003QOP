@@ -6,14 +6,21 @@ namespace Week_12_Exercise
     {
         static void Main(string[] args)
         {
-            // TASK 1
-            CalculateDamage(new int[] { 20, 40, 60 }, 1, 5);
-            CalculateDamage(new int[] { 20, 40, 60 }, 1, 0);
-            CalculateDamage(new int[] { 20, 40, 60 }, 5, 5);
+
+            // TASK 1 - Damage system
+
+
+            CalculateDamage(new int[] { 20, 40, 60 }, 1, 5);  // normal
+            CalculateDamage(new int[] { 20, 40, 60 }, 1, 0);  // armor is zero
+            CalculateDamage(new int[] { 20, 40, 60 }, 5, 5);  // wrong index
 
             Console.WriteLine();
 
-            // TASK 2
+
+
+            // TASK 2 - Network packet
+
+
             GameManager gameManager = new GameManager();
             NetworkManager networkManager = new NetworkManager();
 
@@ -25,7 +32,11 @@ namespace Week_12_Exercise
 
             Console.WriteLine();
 
-            // TASK 3
+
+
+            // TASK 3 - Inventory system
+
+
             Inventory playerInventory = new Inventory();
 
             try
@@ -44,6 +55,11 @@ namespace Week_12_Exercise
 
             Console.ReadKey();
         }
+
+
+ 
+        // TASK 1 METHOD
+  
 
         static void CalculateDamage(int[] attackDamages, int attackIndex, int playerArmor)
         {
@@ -70,6 +86,11 @@ namespace Week_12_Exercise
             }
         }
     }
+
+
+
+    // TASK 2 CLASSES
+
 
     public class NetworkManager
     {
@@ -121,6 +142,11 @@ namespace Week_12_Exercise
             Console.WriteLine("UI updated with score: " + score);
         }
     }
+
+
+
+    // TASK 3 CLASSES
+ 
 
     public class InventoryFullException : Exception
     {
