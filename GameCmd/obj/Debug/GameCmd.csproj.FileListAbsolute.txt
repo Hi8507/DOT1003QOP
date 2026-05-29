@@ -1,0 +1,7 @@
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\GameCmd\bin\Debug\GameCmd.exe.config
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\GameCmd\bin\Debug\GameCmd.exe
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\GameCmd\bin\Debug\GameCmd.pdb
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\GameCmd\obj\Debug\GameCmd.csproj.AssemblyReference.cache
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\GameCmd\obj\Debug\GameCmd.csproj.CoreCompileInputs.cache
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\GameCmd\obj\Debug\GameCmd.exe
+C:\Users\omerh\OneDrive\Belgeler\GitHub\DOT1003QOP\GameCmd\obj\Debug\GameCmd.pdb
